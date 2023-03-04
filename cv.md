@@ -41,3 +41,39 @@ function arrayDiff(a, b) {
 }
 ```
 ---
+### Experience
+#### Etch-a-sketch
+[GitHub](https://github.com/gl-el/etch-a-sketch)
+
+[Preview](https://gl-el.github.io/etch-a-sketch/)
+
+
+#### Calculator
+[GitHub](https://github.com/gl-el/calculator)
+
+[Preview](https://gl-el.github.io/calculator/)
+
+
+#### Rock-paper-scissors
+[GitHub](https://github.com/gl-el/rock-paper-scissors)
+
+[Preview](https://gl-el.github.io/rock-paper-scissors/)
+
+---
+### Education
+**Course "Foundation"**
+[The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
+2023
+
+
+**Design and technology of electonic devices**
+
+National Research University of Electronic Technology
+
+2019
+
+---
+### Languages
+* English B2 -> B1
+* Russian - Native
